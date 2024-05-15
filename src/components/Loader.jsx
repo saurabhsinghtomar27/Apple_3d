@@ -1,5 +1,5 @@
 import React from 'react'
-import Animated from "../assets/images/logo-animated.svg"
+import Animated from "../assets/images/logo-animated.gif"
 function Loader() {
   return (
    <div className='loader'>
